@@ -4,13 +4,13 @@ int main() { // початок головної функції
 
 	//Types of variables in C++
 
-	
 
-    int num = 13;    // оголошення змінної num типу int
-    std::cout << "Initial value of num: " << num << std::endl;  // виведення початкового значення
 
-    num = 5;  // переприсвоєння нового значення змінній num
-    std::cout << "New value of num: " << num << std::endl;  // виведення нового значення
+	int num = 13;    // оголошення змінної num типу int
+	std::cout << "Initial value of num: " << num << std::endl;  // виведення початкового значення
+
+	num = 5;  // переприсвоєння нового значення змінній num
+	std::cout << "New value of num: " << num << std::endl;  // виведення нового значення
 
 	int a, b;  // оголошення двох змінних a та b    
 	std::cout << "Enter variable a: ";  // запит на введення значення змінної a
