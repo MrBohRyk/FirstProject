@@ -25,6 +25,15 @@
 - Structured code with meaningful comments
 - Started organizing learning into days
 
+
+### ✅ Day 2 Bonus – GitHub & Project Structuring
+- Learned how to create and format a `README.md`
+- Figured out where to place `README.md` so it appears on the main GitHub page
+- Resolved my first **merge conflict** like a real developer 🛠️
+- Committed and pushed changes from Visual Studio to GitHub
+- Understood how Git works with project folders and files
+
+
 ---
 
 ## 🟢 Day 3 — 
