@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dayThree.cpp" />
+    <ClCompile Include="dayThreeHw.cpp" />
     <ClCompile Include="dayTwo.cpp" />
     <ClCompile Include="FirstProject.cpp" />
     <ClCompile Include="main.cpp">
